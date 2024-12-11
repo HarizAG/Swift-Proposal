@@ -1,0 +1,27 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.8.34330.188
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "SwiftPropsal", "SwiftPropsal.csproj", "{9F5D6B6A-4F04-4A56-A70B-6BBD214724E5}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{9F5D6B6A-4F04-4A56-A70B-6BBD214724E5}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{9F5D6B6A-4F04-4A56-A70B-6BBD214724E5}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{9F5D6B6A-4F04-4A56-A70B-6BBD214724E5}.Debug|Any CPU.Deploy.0 = Debug|Any CPU
+		{9F5D6B6A-4F04-4A56-A70B-6BBD214724E5}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{9F5D6B6A-4F04-4A56-A70B-6BBD214724E5}.Release|Any CPU.Build.0 = Release|Any CPU
+		{9F5D6B6A-4F04-4A56-A70B-6BBD214724E5}.Release|Any CPU.Deploy.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {88FA97B3-15B1-4580-9957-19F0D03819E9}
+	EndGlobalSection
+EndGlobal
